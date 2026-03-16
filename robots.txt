@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://secore.in/sitemap.xml
